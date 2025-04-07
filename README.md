@@ -44,8 +44,8 @@ AuthFlow-Mern-RBAC/
 
 ## Setup Instructions
 
-### Clone the repository
-https://github.com/V-chala/RBAC-MERN
+### Deployment link
+https://securitybased.web.app/
 ### Backend Setup
 
 1. Install dependencies:
