@@ -2,8 +2,8 @@
   "name": "todo-app",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/YNS-JNS/ToDo-List-Pro.git",
-  "author": "yns-jns <younessaitmbarek97@gmail.com>",
+  "repository": "https://github.com/V-chala/RBAC-MERN",
+  "author": "V-chala <venkatk69@yahoo.com>",
   "license": "MIT",
   "private": true,
   "workspaces": [
